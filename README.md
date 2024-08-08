@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NAlva00
-- 👀 I’m interested in Track, Working out, Video games, Horror genre, Science.
-- 🌱 I’m currently learning Python and Javascript, Working on my Bachelors in Computer Science
+- 👀 I’m interested in Track, Working out, Video games, Horror genre, Science, Technology, and Fashion.
+- 🌱 I’m currently learning Python and Javascript, Working on my Bachelor in Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @nralvarado
 - 😄 Pronouns: He/Him
